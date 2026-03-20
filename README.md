@@ -24,8 +24,8 @@ Install all of the required dependencies by running:
 2. Download the dataset from the link if not included and place it in the data/ folder, the folder structure should look like this:
 ```text
 project/
-├── main.ipynb       # Main notebook with all models and experiments
-├── README.md        # This file
+├── main.ipynb   
+├── README.md        
 └── data/
     ├── COVID/
     ├── NORMAL/
