@@ -79,10 +79,12 @@ Epoch 20/20 | Loss: 0.3500 | Acc: 0.9800`
 
 
 ### Test evaluation output (example)
-`MLP1 Test Loss: 0.XXXX | MLP1 Test Acc: 0.XXXX
+`
+MLP1 Test Loss: 0.XXXX | MLP1 Test Acc: 0.XXXX
 MLP2 Test Loss: 0.XXXX | MLP2 Test Acc: 0.XXXX
 CNN1 Test Loss: 0.XXXX | CNN1 Test Acc: 0.XXXX
-CNN2 Test Loss: 0.XXXX | CNN2 Test Acc: 0.XXXX`
+CNN2 Test Loss: 0.XXXX | CNN2 Test Acc: 0.XXXX
+`
 
 
 ### Charts generated:
