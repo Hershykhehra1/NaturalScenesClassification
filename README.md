@@ -76,20 +76,21 @@ When you run all of the cells in the notebook, you should see the following:
 
  
 ### Training output per epoch (example)
-`
+```text
 Epoch 1/20 | Loss: 0.5300 | Acc: 0.8700
 Epoch 2/20 | Loss: 0.4800 | Acc: 0.9100
 ...
-Epoch 20/20 | Loss: 0.3500 | Acc: 0.9800`
+Epoch 20/20 | Loss: 0.3500 | Acc: 0.9800
+```
 
  
 ### Test evaluation output (example)**
-`
+```text
 MLP1 Test Loss: 0.XXXX | MLP1 Test Acc: 0.XXXX
 MLP2 Test Loss: 0.XXXX | MLP2 Test Acc: 0.XXXX
 CNN1 Test Loss: 0.XXXX | CNN1 Test Acc: 0.XXXX
 CNN2 Test Loss: 0.XXXX | CNN2 Test Acc: 0.XXXX
-`
+```
 
 
 ### Charts generated:
